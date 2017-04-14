@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Rochester-Genesee Regional Transportation Authority ,http://www.rgrta.com,en,20170403,20170625,April 2017_20170323
